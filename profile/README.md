@@ -1,11 +1,21 @@
-Building the ZEAM code under license from ZEAM Foundation LLC: https://github.com/zeam-foundation
+# ZEAM Labs
 
+**Reference Implementation**
 
-Legal & Notices
+Building the ZEAM infrastructure under license from [ZEAM Foundation](https://github.com/zeam-foundation).
 
-© 2024–2025 ZEAM Foundation, LLC and ZEAM Labs, LLC. All rights reserved.
-Patent pending. The ZEAM system is protected by U.S. patent applications covering distributed memory systems, AI governance, identity management, memory-flow orchestration, and economic coordination technologies.
+---
+
+## Legal & Notices
+
+© 2025–2026 ZEAM Foundation, LLC and ZEAM Labs, LLC. All rights reserved.
+
+The ZEAM system is protected by a multi-patent portfolio covering distributed memory systems, AI governance, identity management, memory-flow orchestration, and economic coordination technologies.
 
 This repository serves as the reference implementation for licensed use of ZEAM patents. Unauthorized use of the technologies described herein may constitute patent infringement.
 
-**Repository License:** The code in this repository is provided as a reference implementation for licensed users only. A valid patent license from ZEAM Labs, LLC is required for any commercial or production use of these technologies.
+**Repository License:** The code in this repository is provided as a reference implementation for evaluation purposes only. See [LICENSE](LICENSE) for terms. A valid patent license from ZEAM Labs, LLC is required for any commercial or production use.
+
+---
+
+**Licensing:** [zeamlabs.com](https://zeamlabs.com) · [info@zeamlabs.com](mailto:info@zeamlabs.com)
