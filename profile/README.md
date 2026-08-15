@@ -36,6 +36,7 @@ offer no uptime commitment, and we would rather say that here than have you disc
 |---|---|
 | [x402-mcp-bridge](https://github.com/zeam-labs/x402-mcp-bridge) | Put a wallet in front of any x402-paid MCP server. Local stdio bridge; holds your key on your machine, custodies nothing. |
 | [ZEAM-Labs-Corporate-Docs](https://github.com/zeam-labs/ZEAM-Labs-Corporate-Docs) | Our formation certificate, operating agreement, resolutions and IP license, published in full. |
+| [zeam-foundation/zeam-ip](https://github.com/zeam-foundation/zeam-ip) | The IP ledger: 26 U.S. patent applications with numbers, filing dates and full text. |
 
 ## Operator
 
@@ -58,8 +59,15 @@ and the filed certificate itself is in the corporate-docs repository.
 
 © 2025–2026 ZEAM Foundation, LLC and ZEAM Labs, LLC. All rights reserved.
 
-The ZEAM system is protected by a multi-patent portfolio covering distributed memory systems, AI
-governance, identity management, memory-flow orchestration, and economic coordination technologies.
+Patent pending. The ZEAM system is covered by 26 U.S. patent applications — 21 provisional and 5
+non-provisional utility applications — spanning distributed memory systems, AI governance, identity
+management, memory-flow orchestration, and economic coordination technologies.
+
+Every application number and filing date is published in
+[zeam-foundation/zeam-ip](https://github.com/zeam-foundation/zeam-ip), together with the full text of
+each filing. Provisional applications are not published by the USPTO, and the non-provisionals filed
+17 September 2025 publish at eighteen months from their earliest priority date — so absence from
+Google Patents today is expected and is not evidence either way. The ledger is the record.
 
 ZEAM Labs, LLC builds the ZEAM reference implementation under license from
 [ZEAM Foundation](https://github.com/zeam-foundation). The executed license agreement is published
